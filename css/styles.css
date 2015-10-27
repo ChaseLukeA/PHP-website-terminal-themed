@@ -1,0 +1,51 @@
+body {
+    background: #000;
+    color: #fff;
+    font-family: "Courier New", Courier, monospace;
+    padding-left: 1em;
+}
+
+input[type="text"] {
+    background: #333;
+    border: none;
+    color: #ff0;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1em;
+}
+
+input[type="submit"] {
+    background: #000;
+    border: none;
+    color: #000;
+    padding: 0 4px;
+}
+
+p:before {
+    color: #ff0;
+    content: "PHP-Terminal-Website:/ ChaseLukeA$";
+    left: -0.75em;
+    position: relative;
+}
+
+a, a:visited {
+    background: #333;
+    color: #ff0;
+    padding: 0 4px;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #ff0;
+}
+
+.coded {
+    font-weight: bold;
+}
+
+.coded:before, .coded:after {
+    content: "'";
+}
+
+.output {
+    color: #faf;
+}

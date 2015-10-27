@@ -1,0 +1,8 @@
+bec155:Lexmark 4557XL:45800
+bec152:HP LaserJet 8MQ:28009
+bec159C:Canon CopyExpress 900:425000
+bec176:HP LaserJet 8MQ:18700
+bec159:HP ColorLaserJet 2550:150555
+bec154:HP LaserJet 8MQ:12750
+bec147:Lexmark 4557XL:28009
+bec159D:HP LaserJet 8MQ:896999
